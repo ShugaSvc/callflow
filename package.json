@@ -33,6 +33,5 @@
     }
   ],
   "dependencies": {
-    "whys": "git+https://github.com/PrivateSky/whys.git"
   }
 }
